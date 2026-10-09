@@ -79,6 +79,8 @@ Clone the repository and run:
 
 python main.py
 
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/achintyajain1502/a-pathfinder-aisc?utm_source=readme&utm_medium=badge)
+
 ## 📚 Algorithm Summary
 
 A* is an informed search algorithm that uses both the cost already travelled and a heuristic estimate to efficiently find a path from the starting node to the destination.
